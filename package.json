@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parakhpixel6/Sass-Nators.git"
+  },
+  "author": "Parakh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parakhpixel6/Sass-Nators/issues"
+  },
+  "homepage": "https://github.com/parakhpixel6/Sass-Nators#readme",
+  "devDependencies": {
+    "node-sass": "^8.0.0",
+    "sass": "^1.62.1"
+  }
+}
